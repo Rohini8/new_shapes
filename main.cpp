@@ -15,4 +15,6 @@ int main()
     std::cout<<"\nTriangle area: "<<tri_ptr->area();
     IShape *circle_ptr = &circle;
     std::cout<<"\nCircle circumference: "<<circle_ptr->circumference();
+   std::cout<<"\nNew branch";
+   
 }
