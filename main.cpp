@@ -17,6 +17,6 @@ int main()
     std::cout<<"\nCircle circumference: "<<circle_ptr->circumference();
    std::cout<<"\nNew branch";
    std::cout<<"\nNew branch added";
-std::cout<<"\nNew branch added**";
+std::cout<<"\nNew branch added*************";
    
 }
